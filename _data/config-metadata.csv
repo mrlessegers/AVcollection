@@ -3,7 +3,7 @@ title,Title,
 description,Description,
 subject,Themes,true
 genre, Genre,true
-language,Language,
+duration, Duration,
 
 
 adtlmeta, ADDITIONAL METADATA
