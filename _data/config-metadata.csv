@@ -1,19 +1,31 @@
 field,display_name,browse_link,external_link
 title,Title,
-, Provenance,
-creator,Creator/s,
-contributor, Contributor/s
-date,Date Created,
 description,Description,
-subject,Subjects,true
-location,Location/s
+subject,Themes,true
+genre, Genre,true
+language,Language,
+
+
+adtlmeta, ADDITIONAL METADATA
+date,Date,
+location,Location
 latitude,Latitude
 longitude,Longitude
-source,Provenance
-identifier,Accession Number,,
 type,Type,
 format,Format,
-language,Language,
+condition, Condition Notes
+
+provenance, PROVENANCE
+source, Source Collection,true
+identifier,Identifier,
+creator,Creator,true
+contributor,Contributors
+digitizer, Digitizer
+itemhistory, Item History 
+link, Database Link,,true
+
+
+rightscontext, RIGHTS
 rights,Rights,
 rightsstatement,Rights Statement,,true
-link, Link
+
