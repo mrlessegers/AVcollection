@@ -3,7 +3,7 @@ title,Title,
 description,Description,
 subject,Themes,true
 genre, Genre,
-duration, Duration,
+language, Language,
 
 
 adtlmeta, ADDITIONAL METADATA
@@ -20,7 +20,7 @@ source, Source Collection,true
 identifier,Identifier,
 creator,Creator,true
 contributor,Contributors
-adviser, Thesis Adviser
+digitizer, Digitizer
 itemhistory, Item History 
 link, Database Link,,true
 
