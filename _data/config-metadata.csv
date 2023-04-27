@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,
+, Provenance,
 creator,Creator/s,
 contributor, Contributor/s
 date,Date Created,
