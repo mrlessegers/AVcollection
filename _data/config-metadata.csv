@@ -1,9 +1,14 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,true
-date,Date,
 description,Description,
 subject,Themes,true
+genre, Genre,
+language, Language
+duration, Duration,
+date,Date,
+creator,Creator,true
+castcrew,Cast and Crew,true
+adviser, Thesis Adviser,true
 location,Location
 latitude,Latitude
 longitude,Longitude
@@ -11,6 +16,7 @@ source, Source Collection,true
 identifier,Identifier,
 type,Type,
 format,Format,
-language, Language
+itemhistory, Item History 
+link, Access Link,,true
 rights,Rights,
 rightsstatement,Rights Statement,,true
