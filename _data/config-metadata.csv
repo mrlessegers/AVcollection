@@ -1,31 +1,16 @@
 field,display_name,browse_link,external_link
 title,Title,
+creator,Creator,true
+date,Date,
 description,Description,
 subject,Themes,true
-genre, Genre,
-duration, Duration,
-
-
-adtlmeta, ADDITIONAL METADATA
-date,Date,
 location,Location
 latitude,Latitude
 longitude,Longitude
-type,Type,
-format,Format,
-condition, Condition Notes
-
-provenance, PROVENANCE
 source, Source Collection,true
 identifier,Identifier,
-creator,Creator,true
-contributor,Contributors
-adviser, Thesis Adviser
-itemhistory, Item History 
-link, Database Link,,true
-
-
-rightscontext, RIGHTS
+type,Type,
+format,Format,
+language, Language
 rights,Rights,
 rightsstatement,Rights Statement,,true
-
