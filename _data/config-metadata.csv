@@ -7,8 +7,8 @@ language, Language
 duration, Duration,
 date,Date,
 creator,Creator,true
-castcrew,Cast and Crew,true
-adviser, Thesis Adviser,true
+castcrew,Cast and Crew,
+adviser, Thesis Adviser,
 location,Location
 latitude,Latitude
 longitude,Longitude
