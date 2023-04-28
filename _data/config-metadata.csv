@@ -1,16 +1,16 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,true
+creator,Creator,true,
 date,Date,
 description,Description,
-subject,Themes,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source Collection,true
+subject,Themes,true,
+location,Location,
+latitude,Latitude,
+longitude,Longitude,
+source,Source Collection,true,
 identifier,Identifier,
 type,Type,
 format,Format,
-language, Language
+language,Language,
 rights,Rights,
 rightsstatement,Rights Statement,,true
