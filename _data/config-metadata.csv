@@ -12,7 +12,7 @@ adviser, Thesis Adviser,
 location,Location
 latitude,Latitude
 longitude,Longitude
-source, Source Collection,true
+source,Source Collection,true
 identifier,Identifier,
 type,Type,
 format,Format,
