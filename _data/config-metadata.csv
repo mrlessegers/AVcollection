@@ -3,6 +3,8 @@ title,Title,
 description,Description,
 subject,Themes,true,
 language,Language,
+genre,Genre,true
+duration,Duration
 creator,Creator,true,
 castcrew,Cast & Crew,true, 
 adviser,Thesis Adviser,true,
