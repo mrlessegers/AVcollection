@@ -17,6 +17,6 @@ identifier,Identifier,
 type,Type,
 format,Format,
 itemhistory, Item History 
-link,Access Link,,true
+link,File Name,,
 rights,Rights,
 rightsstatement,Rights Statement,,true
