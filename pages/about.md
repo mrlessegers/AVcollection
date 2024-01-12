@@ -8,10 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-# use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: /objects/UP Film Center.jpg
+{% include featured-image: /objects/UP Film Center.jpg %}
 
-{% include feature/nav-menu.html sections="About the UPFI Online Thesis Database;About the About the UPFI Film and Archives Library" %}
+{% include feature/nav-menu.html sections="About the UPFI Online Thesis Database;About the UPFI Film Archives and Library" %}
 
 ## About the UPFI Online Thesis Database
 
@@ -23,7 +22,7 @@ The use of the UPFI Online Thesis Database and the UPFI Film Archives and Librar
 
 [https://ovcre.uplb.edu.ph/research/guidelines-and-procedures/protecting-intellectual-property/item/333-governing-policies-on-intellectual-property-in-up]
 
-## About the UPFI Film and Archives Library
+## About the UPFI Film Archives and Library
 
 The Film Archives and Library of the U.P. Film Institute is mandated to preserve, restore if necessary, classify, and catalog its collection of films, videotapes, videodiscs, laserdiscs, compact discs, audiotapes, still photos, slides, posters, newspaper clippings, books, periodicals, and other related materials. Its comprehensive database of collections will be available to faculty, students, staff and practitioners within guidelines to be formulated by the Institute.
 
