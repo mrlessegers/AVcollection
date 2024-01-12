@@ -45,3 +45,7 @@ Positive (prints and slides);
 
 Print Medium: 
 Books, theses, newspaper clippings, periodicals, posters, brochures, and others.
+
+{% include feature/image.html objectid="demo_001" width="75" %} 
+
+{% include cb/about_the_about.md %}
