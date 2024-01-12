@@ -1,6 +1,6 @@
 ---
 title: About the UPFI Film Archives and Library
-layout: About the UPFI Film Archvies and Library
+layout: About the UPFI Film Archives and Library
 permalink: /UPFIFilmArchivesandLibrary.html
 # include CollectionBuilder info at bottom
 credits: true
