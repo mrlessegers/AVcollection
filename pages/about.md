@@ -1,7 +1,7 @@
 ---
 title: About the UPFI Film Archives and Library
 layout: About the UPFI Film Archives and Library
-permalink: /UPFIFilmArchivesandLibrary.html
+permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
