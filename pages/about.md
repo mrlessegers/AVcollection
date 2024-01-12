@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="UP Film Center.jpg" %}
 
 {% include feature/nav-menu.html sections="About the UPFI Online Thesis Database;About the About the UPFI Film and Archives Library" %}
 
@@ -18,7 +18,9 @@ The UPFI Online Thesis Database provides information about UPFI student theses t
 
 The UPFI Online Thesis Database facilitates retrieval of the digitised and born digital theses files from the UPFI Film Archives and Library Digital Repository server. 
 
-The use of the UPFI Online Thesis Database and the UPFI Film Archives and Library Digital Repository is allowed solely for academic and research purposes only, subject to the limitations of the governing policies on intellectual property in UP, such as Copyright, Tangible Research Property, and others. [https://ovcre.uplb.edu.ph/research/guidelines-and-procedures/protecting-intellectual-property/item/333-governing-policies-on-intellectual-property-in-up]
+The use of the UPFI Online Thesis Database and the UPFI Film Archives and Library Digital Repository is allowed solely for academic and research purposes only, subject to the limitations of the governing policies on intellectual property in UP, such as Copyright, Tangible Research Property, and others. 
+
+[https://ovcre.uplb.edu.ph/research/guidelines-and-procedures/protecting-intellectual-property/item/333-governing-policies-on-intellectual-property-in-up]
 
 ## About the UPFI Film and Archives Library
 
@@ -46,6 +48,6 @@ Positive (prints and slides);
 Print Medium: 
 Books, theses, newspaper clippings, periodicals, posters, brochures, and others.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+ 
 
-{% include cb/about_the_about.md %}
+
