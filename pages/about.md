@@ -24,25 +24,24 @@ The use of the UPFI Online Thesis Database and the UPFI Film Archives and Librar
 
 The Film Archives and Library of the U.P. Film Institute is mandated to preserve, restore if necessary, classify, and catalog its collection of films, videotapes, videodiscs, laserdiscs, compact discs, audiotapes, still photos, slides, posters, newspaper clippings, books, periodicals, and other related materials. Its comprehensive database of collections will be available to faculty, students, staff and practitioners within guidelines to be formulated by the Institute.
 
-The Film Archives and Library is part of the CMC Library System and its collections are housed in the UP Film Center building. The current organizational structure of the UPFI is such that the Archives Unit is placed under the Academic Programs and Research Division headed by the Faculty Coordinator. [see Appendix __ for the Academic Programs and Research personnel]
+The Film Archives and Library is part of the CMC Library System and its collections are housed in the UP Film Center building. The current organizational structure of the UPFI is such that the Archives Unit is placed under the Academic Programs and Research Division headed by the Faculty Coordinator. 
 
 All materials in the Film Archives and Library are part of the University Library collection (as stipulated in the U.P. Manual) and subject to University guidelines pertaining to standard procedure for cataloguing, organizing, and classifying library materials. Films deposited with the Archives by their owners for safekeeping and preservation will be subject to special rules. [University of the Philippines Gazette, Vol. XXXIV, No. 1 January - March 2003]
 
 Through the years, the UPFI Archives and Library has acquired the following materials:
 
-•	Moving Image Forms: 
+Moving Image Forms: 
 Films in Regular 8, Super 8, 16mm, and/or 35mm; 
 Videos in U-matic, Beta, VHS, and/or laser disc; 
 New Media such as DVD and VCD; and 
 Digital;
 
-•	Audio Recordings: 
+Audio Recordings: 
 Open-reel magnetic tapes such as ¼”, audio cassette tape, 33 1/3 rpm, CD;
 
-•	Photographic Image: 
+Photographic Image: 
 Negative, 
 Positive (prints and slides);
 
-•	Print Medium: 
+Print Medium: 
 Books, theses, newspaper clippings, periodicals, posters, brochures, and others.
-![image](https://github.com/upfifilmarchives/AVcollection/assets/131942684/2c349b32-3afe-484f-82b7-71587497d17b)
