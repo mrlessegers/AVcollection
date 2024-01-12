@@ -10,23 +10,23 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the UPFI Online Thesis Database;About the UPFI Film Archives & Library" %}
 
-## About the UPFI Online Thesis Database
+## About the UPFI Student Thesis AV Collection
 
-The UPFI Online Thesis Database is part of the UPFI Audiovisual Collection. It provides information about UPFI student theses that have been digitized/preserved electronically by the UPFI Film Archives & Library. It allows users remote access to information on UPFI student theses from 1990. 
+A part of the larger UPFI Audiovisual Collection, the UPFI Student Thesis AV Collection allows users remote access to information on UPFI student theses created from 1990 to present that have been digitized and preserved electronically by the UPFI Film Archives & Library.  
 
-The UPFI Online Thesis Database facilitates retrieval of the digitised and born digital theses files from the UPFI Film Archives & Library Digital Repository server. 
+The UPFI Student Thesis AV Collection facilitates retrieval of the digitised and born digital theses files from the UPFI Film Archives & Library Digital Repository server. 
 
-The use of the UPFI Online Thesis Database and the UPFI Film Archives & Library Digital Repository is allowed solely for academic and research purposes only, subject to the limitations of the governing policies on intellectual property in UP, such as Copyright, Tangible Research Property, and others. 
+The use of the UPFI Student Thesis AV Collection and the UPFI Film Archives & Library Digital Repository is allowed solely for academic and research purposes only, subject to the limitations of the governing policies on intellectual property in UP, such as Copyright, Tangible Research Property, and others. 
 
 [https://ovcre.uplb.edu.ph/research/guidelines-and-procedures/protecting-intellectual-property/item/333-governing-policies-on-intellectual-property-in-up]
 
 ## About the UPFI Film Archives & Library
 
-The Film Archives & Library of the U.P. Film Institute is mandated to preserve, restore if necessary, classify, and catalog its collection of films, videotapes, videodiscs, laserdiscs, compact discs, audiotapes, still photos, slides, posters, newspaper clippings, books, periodicals, and other related materials. Its comprehensive database of collections will be available to faculty, students, staff and practitioners within guidelines to be formulated by the UPFI.
+The Film Archives & Library of the U.P. Film Institute is mandated to preserve, restore if necessary, classify, and catalog its collection of films, videotapes, videodiscs, laserdiscs, compact discs, audiotapes, still photos, slides, posters, newspaper clippings, books, periodicals, and other related materials. Its comprehensive database of collections is available to faculty, students, staff and practitioners within guidelines formulated by the UPFI.
 
-The Film Archives & Library is part of the CMC Library System and its collections are housed in the UP Film Center building. The current organizational structure of the UPFI is such that the Archives Unit is placed under the Academic Programs and Research Division headed by the Faculty Coordinator. 
+The UPFI Film Archives & Library is part of the CMC Library System and its collections are housed in the UP Film Center building.  
 
-All materials in the Film Archives & Library are part of the University Library collection (as stipulated in the U.P. Manual) and subject to University guidelines pertaining to standard procedure for cataloguing, organizing, and classifying library materials. Films deposited with the Archives by their owners for safekeeping and preservation will be subject to special rules. [University of the Philippines Gazette, Vol. XXXIV, No. 1 January - March 2003]
+All materials in the UPFI Film Archives & Library are part of the University Library collection (as stipulated in the U.P. Manual) and subject to University guidelines pertaining to standard procedure for cataloguing, organizing, and classifying library materials. Films deposited with the Archives by their owners for safekeeping and preservation will be subject to special rules. [University of the Philippines Gazette, Vol. XXXIV, No. 1 January - March 2003]
 
 Through the years, the UPFI Archives & Library has acquired the following materials:
 
