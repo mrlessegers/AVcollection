@@ -8,7 +8,8 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="UP Film Center.jpg" %}
+# use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
+featured-image: /objects/UP Film Center.jpg
 
 {% include feature/nav-menu.html sections="About the UPFI Online Thesis Database;About the About the UPFI Film and Archives Library" %}
 
