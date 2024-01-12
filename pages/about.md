@@ -8,8 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include featured-image: /objects/UP Film Center.jpg %}
-
 {% include feature/nav-menu.html sections="About the UPFI Online Thesis Database;About the UPFI Film Archives and Library" %}
 
 ## About the UPFI Online Thesis Database
