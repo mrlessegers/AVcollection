@@ -10,13 +10,13 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the UPFI Online Thesis Database;About the UPFI Film Archives & Library" %}
 
-## About the UPFI Student Thesis AV Collection
+## About the UPFI Student Thesis AV Collection Database
 
-A part of the larger UPFI Audiovisual Collection, the UPFI Student Thesis AV Collection allows users remote access to information on UPFI student theses created from 1990 to present that have been digitized and preserved electronically by the UPFI Film Archives & Library.  
+A part of the larger UPFI Audiovisual Collection Database, the UPFI Student Thesis AV Collection Database allows users remote access to information on UPFI student theses created from 1990 to present that have been digitized and preserved electronically by the UPFI Film Archives & Library.  
 
-The UPFI Student Thesis AV Collection facilitates retrieval of the digitised and born digital theses files from the UPFI Film Archives & Library Digital Repository server. 
+The UPFI Student Thesis AV Collection Database facilitates retrieval of the digitised and born digital theses files from the UPFI Film Archives & Library Digital Repository server. 
 
-The use of the UPFI Student Thesis AV Collection and the UPFI Film Archives & Library Digital Repository is allowed solely for academic and research purposes only, subject to the limitations of the governing policies on intellectual property in UP, such as Copyright, Tangible Research Property, and others. 
+The use of the UPFI Student Thesis AV Collection Database and the UPFI Film Archives & Library Digital Repository is allowed solely for academic and research purposes only, subject to the limitations of the governing policies on intellectual property in UP, such as Copyright, Tangible Research Property, and others. 
 
 [https://ovcre.uplb.edu.ph/research/guidelines-and-procedures/protecting-intellectual-property/item/333-governing-policies-on-intellectual-property-in-up]
 
